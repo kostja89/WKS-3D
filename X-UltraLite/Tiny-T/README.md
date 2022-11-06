@@ -6,7 +6,8 @@ The centering lugs must be removed from the XY joints. Here you can download the
 
 
 #Pictures
-![Here](Tiny-T_Einzelheit.PNG)
 
-![Here](Tiny-T_Zusammenbau.PNG)
+![Here](Tiny-T_1.png)
+
+![Here](Tiny-T_2.png)
 
