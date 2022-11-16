@@ -6,6 +6,7 @@ The centering lugs must be removed from the XY joints. Here you can download the
 
 Print the assamble tool 1 time to be able to screw on the nuts
 
+[SirRenix](https://github.com/SirRenix) has designed Hexnut Inserts to allow easier mounting to the XY Joints. 
 
 # V2.4 & Trident
 ![Here](VORON2.4_Assembly_xy_joints_Mod_X-Beam-2.PNG)
