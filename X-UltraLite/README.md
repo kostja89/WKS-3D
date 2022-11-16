@@ -4,7 +4,7 @@ Modified XY joints for the V0 & V2.4 & Trident with the X-Beams from [WKS-3D](ht
 
 The centering lugs must be removed from the XY joints. Here you can download the correct STL files.
 
-[SirRenix](https://github.com/SirRenix) has designed Hexnut Inserts to have an easy mounting to the XY Joints
+[SirRenix](https://github.com/SirRenix) has designed Hexnut Inserts to allow easier mounting to the XY Joints. 
 
 # V0.1 
 ![Here](V0.1/VORON_V0.1_XY_Joints_Mod_X-Beam-2.PNG)
